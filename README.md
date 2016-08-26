@@ -1,12 +1,11 @@
 # Javascript Code challenges
 
-A repo with common JS code challenges. These challenges are great for brushing up on your JS for job interviews or for fun (*yes! javascript is fun!*). Please note that these are meant to be done (and my solutions here, all in ES5) are meant to be fast and dirty (think: interview setting). There are multiple ways of solving each problem. Taken from people around the internet as well as via the "Ace the Programming Interview" book.
+A repo with common JS code challenges. These challenges are great for brushing up on your JS for job interviews or for fun (*yes! javascript is fun!*). Please note that these are meant to be done (and my solutions here, all in ES5, some in ES6) are meant to be fast and dirty (think: interview setting). There are multiple ways of solving each problem. Taken from people around the internet as well as via the "Ace the Programming Interview" book.
 
 Here are the questions I'm working through:
 
 - Write function to compute Nth fibonacci number
 - Print out the grade-school multiplication table up to 12x12
-- Write function to print the odd numbers from 1 to 99.
 - Format an RGB value (three 1-byte numbers) as a 6-digit hexadecimal string.
 - Find the minimum value in a list
 - Calculate a remainder (given a numerator and denominator)
@@ -27,3 +26,4 @@ And those I've finished:
 - FizzBuzz. A Classic. You're not a programmer unless you've been asked, I guess.
 - Check if a word is a palindrome.
 - Take an object, do a for in loop to print only the ones that have a string prop
+- Write function to print the odd numbers from 1 to 99.
